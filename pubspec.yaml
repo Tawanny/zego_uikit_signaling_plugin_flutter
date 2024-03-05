@@ -18,7 +18,8 @@ dependencies:
   zego_zpns: any
   zego_callkit: any
 
-  flutter_logs: ^2.1.10
+  flutter_logs: 
+    git: https://github.com/Hyla96/flutter_logs
   plugin_platform_interface: ^2.1.6
 
 dev_dependencies:
